@@ -1,3 +1,3 @@
 # webmin-ubuntu
 install webmin on ubuntu
-![alt text](/assets/img/webmin.png)
+![alt text_left](/assets/img/webmin.png)
